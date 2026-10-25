@@ -11,7 +11,7 @@ public class Position {
     private final int column;
 
     /**
-     * 
+     * The constructor to initialize object 
      * @param row The current row position
      * @param column The current column position
      */
